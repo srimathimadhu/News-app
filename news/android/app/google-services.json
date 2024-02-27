@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "531906069454",
+    "project_id": "ksrct-newsletter",
+    "storage_bucket": "ksrct-newsletter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531906069454:android:ff7ccd9b3fac764c9aa19f",
+        "android_client_info": {
+          "package_name": "com.ksrct.newsletter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531906069454-kppj0pne937hjhcj80i10m8u62r86thj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7KPupNHB2ZnybKjc1aKNBSNnWQ5nympk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531906069454-kppj0pne937hjhcj80i10m8u62r86thj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
